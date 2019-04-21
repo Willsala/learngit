@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Twister</title>
+    <style>
+        body {background-color:black}
+        canvas { margin: 0 auto; display: block; padding:1px; }
+    </style>
+</head>
+<body>
+<canvas id="canvas1" width="800" height="800">
+    No support.
+</canvas>
+<script>
+    var mycanvas=document.getElementById("canvas1");
+    var cntx=mycanvas.getContext('2d');
+    cntx.lineCap = 'round';
+    cntx.strokeStyle = '#ffff00';
+    cntx.lineWidth = 4;
+    function turn_it(){
+        cntx.beginPath();
+        cntx.moveTo(0, 0);
+        move_num = 1;
+        rotate_num = 0.02;
+        rads = rotate_num * 2 * Math.PI;
+        for (i=1;i<=400;i++){
+            distance = i * move_num;
+            turn = i * rads;
+            x = Math.cos(turn) * distance;
+            y = Math.sin(turn) * distance;
+            cntx.lineTo(x, y);
+        }
+    }
+    cntx.translate(cntx.canvas.width/2, cntx.canvas.height/2);
+    setInterval(
+        function(){
+            cntx.clearRect(-cntx.canvas.width/2, -cntx.canvas.height/2, cntx.canvas.width, cntx.canvas.height);
+            cntx.rotate(.01);
+            turn_it.apply();
+            cntx.stroke();
+        }, 10);
+</script>
+</body>
+</html>

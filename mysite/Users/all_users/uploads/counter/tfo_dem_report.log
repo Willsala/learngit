@@ -1,0 +1,42 @@
+sadsaThu Apr 18 20:25:19 2019	Batch build for tfo_demo.tfo	
+Thu Apr 18 20:25:23 2019	Build time for counter                       :	4.5219926834106445
+Thu Apr 18 20:25:23 2019	Total build time:	4.590986490249634
+Thu Apr 18 20:26:31 2019	Batch build for tfo_demo.tfo	
+Thu Apr 18 20:26:35 2019	Build time for counter                       :	3.9323766231536865
+Thu Apr 18 20:26:35 2019	Total build time:	4.02160120010376
+Fri Apr 19 18:08:53 2019	Batch build for tfo_demo.tfo	
+Fri Apr 19 18:08:58 2019	Build time for counter                       :	4.757930755615234
+Fri Apr 19 18:08:58 2019	Total build time:	4.8584606647491455
+Fri Apr 19 18:14:01 2019	Batch build for tfo_demo.tfo	
+Fri Apr 19 18:14:05 2019	Build time for counter                       :	4.180392026901245
+Fri Apr 19 18:14:05 2019	Total build time:	4.189417123794556
+Fri Apr 19 19:17:58 2019	Batch build for tfo_demo.tfo	
+Fri Apr 19 19:18:03 2019	Build time for counter                       :	4.077184200286865
+Fri Apr 19 19:18:03 2019	Total build time:	4.178396463394165
+Fri Apr 19 19:19:31 2019	Batch build for tfo_demo.tfo	
+Fri Apr 19 19:19:35 2019	Build time for counter                       :	4.110352277755737
+Fri Apr 19 19:19:35 2019	Total build time:	4.137025356292725
+Fri Apr 19 20:29:02 2019	Batch build for tfo_demo.tfo	
+Fri Apr 19 20:29:06 2019	Build time for counter                       :	3.8762331008911133
+Fri Apr 19 20:29:06 2019	Total build time:	4.043629169464111
+Sat Apr 20 09:56:14 2019	Batch build for tfo_demo.tfo	
+Sat Apr 20 09:57:26 2019	Batch build for tfo_demo.tfo	
+Sat Apr 20 09:57:41 2019	Build time for counter                       :	15.487401247024536
+Sat Apr 20 09:57:42 2019	Total build time:	15.585531949996948
+Sat Apr 20 11:02:44 2019	Batch build for tfo_demo.tfo	
+Sat Apr 20 11:02:48 2019	Build time for counter                       :	3.8979287147521973
+Sat Apr 20 11:02:48 2019	Total build time:	4.125437021255493
+Sat Apr 20 12:11:57 2019	Batch build for tfo_demo.tfo	
+Sat Apr 20 12:12:01 2019	Build time for counter                       :	3.951622724533081
+Sat Apr 20 12:12:01 2019	Total build time:	3.991929531097412
+Sat Apr 20 13:43:08 2019	Batch build for tfo_demo.tfo	
+Sat Apr 20 13:43:13 2019	Build time for counter                       :	4.9388587474823
+Sat Apr 20 13:43:13 2019	Total build time:	5.047275066375732
+Sat Apr 20 13:53:16 2019	Batch build for tfo_demo.tfo	
+Sat Apr 20 13:53:21 2019	Build time for counter                       :	4.303634405136108
+Sat Apr 20 13:53:21 2019	Total build time:	4.356730222702026
+Sat Apr 20 13:54:01 2019	Batch trf2vcd for tfo_demo.tfo	
+Sat Apr 20 14:03:25 2019	Batch trf2vcd for tfo_demo.tfo	
+Sat Apr 20 14:03:26 2019	Trf2vcd time for counter                       :	0.24580907821655273
+Sat Apr 20 14:03:26 2019	Total trf2vcd time:	0.2947518825531006
+Sat Apr 20 14:03:26 2019	Batch merge for tfo_demo.tfo	

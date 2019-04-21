@@ -1,0 +1,22 @@
+Sat Apr 20 14:06:43 2019	Batch trf2vcd for tfo_demo.tfo	
+Sat Apr 20 14:07:24 2019	Batch trf2vcd for tfo_demo.tfo	
+Sat Apr 20 14:07:24 2019	Trf2vcd time for accu1                         :	0.33966946601867676
+Sat Apr 20 14:07:24 2019	Total trf2vcd time:	0.3613162040710449
+Sat Apr 20 14:07:24 2019	Batch merge for tfo_demo.tfo	
+Sat Apr 20 14:07:25 2019	Merge time for accu1                         :	0.04687833786010742
+Sat Apr 20 14:07:25 2019	Total merge time:	0.46874165534973145
+Sun Apr 21 13:14:46 2019	Batch build for tfo_demo.tfo	
+Sun Apr 21 13:14:59 2019	Build time for accu1                         :	12.649142503738403
+Sun Apr 21 13:14:59 2019	Total build time:	12.849946737289429
+Sun Apr 21 13:16:13 2019	Batch trf2vcd for tfo_demo.tfo	
+Sun Apr 21 13:16:14 2019	Trf2vcd time for accu1                         :	0.4009833335876465
+Sun Apr 21 13:16:14 2019	Total trf2vcd time:	0.41799330711364746
+Sun Apr 21 13:16:14 2019	Batch merge for tfo_demo.tfo	
+Sun Apr 21 13:16:15 2019	Merge time for accu1                         :	0.14658594131469727
+Sun Apr 21 13:16:15 2019	Total merge time:	0.7092573642730713
+Sun Apr 21 13:20:39 2019	Batch trf2vcd for tfo_demo.tfo	
+Sun Apr 21 13:20:39 2019	Trf2vcd time for accu1                         :	0.2968783378601074
+Sun Apr 21 13:20:39 2019	Total trf2vcd time:	0.3303098678588867
+Sun Apr 21 13:20:39 2019	Batch merge for tfo_demo.tfo	
+Sun Apr 21 13:20:39 2019	Merge time for accu1                         :	0.0468595027923584
+Sun Apr 21 13:20:39 2019	Total merge time:	0.39783406257629395
